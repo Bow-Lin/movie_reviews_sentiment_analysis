@@ -1,4 +1,4 @@
-# movie-reviews-sentiment_analysis-
+# movie_reviews_sentiment_analysis
 Sentiment analysis of movie reviews 
 //网页端演示是基于Django框架实现的，运行环境的配置是基于Anaconda，
 //通过以下命令可简单直接的配置环境和运行我们的项目。
