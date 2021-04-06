@@ -1,7 +1,7 @@
 # movie_reviews_sentiment_analysis
 Sentiment analysis of movie reviews 
-//网页端演示是基于Django框架实现的，运行环境的配置是基于Anaconda，
-//通过以下命令可简单直接的配置环境和运行我们的项目。
+网页端演示是基于Django框架实现的，运行环境的配置是基于Anaconda，
+通过以下命令可简单直接的配置环境和运行我们的项目。
 
 1. 进入解压文件，通过windows命令行进入当前文件目录
 2. 通过Anaconda直接安装Demo运行环境    
@@ -10,7 +10,7 @@ Sentiment analysis of movie reviews
 	activate Demo  
 4. 运行项目文件，输入如下命令
 	python manage.py runserver 0.0.0.0:8080            //运行django程序，进入8080端口
-5. 打开浏览器（firefox或google）进入如下网址
+5. 打开浏览器进入如下网址
 	http://localhost:8080/NLP/test/
 6. 完成，即可在网页中输入电影评论语句，查看情感分析结果。
 
